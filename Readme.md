@@ -1,6 +1,10 @@
 # Example Streamlit app
-You can find the streamlit app here
+You can find the streamlit app here 
+for prediction:
 'https://ridhwan-skin-lesion-app.streamlit.app/'
+
+for gradcam
+'https://ridhwan-skinlesion-gradcam.streamlit.app/'
 
 # Streamlit Image and Metadata Model App
 
