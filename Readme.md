@@ -70,3 +70,7 @@ A metadata model uses **additional information** alongside the image. This could
 *   **Output:** A prediction that takes into account both the **visual features** and the **associated metadata**.
 
 For metadata, the Streamlit app allows users to input additional information (such as a description or label) in fields that are passed to the model during inference.
+
+### **Gradcam app**
+
+![GradCAM Image](https://raw.githubusercontent.com/ridhwanrazaliwork/Skin-Lesion-CNN-/main/gradcam-app.png)
