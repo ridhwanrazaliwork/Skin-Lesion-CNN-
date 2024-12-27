@@ -50,9 +50,9 @@ def main():
 
     # Model paths
     model_paths = {
-        "cnn": "best_cnn_model_traced.pt", 
-        "efficientnet": "best_efficientnet_model_traced.pt",
-        "cnn_metadata": "best_cnn_metadata_model_traced.pt"
+        "cnn": "saved_models/best_cnn_model_traced.pt", 
+        "efficientnet": "saved_models/best_efficientnet_model_traced.pt",
+        "cnn_metadata": "saved_models/best_cnn_metadata_model_traced.pt"
     }
     model_path = model_paths.get(model_type, None)
 
