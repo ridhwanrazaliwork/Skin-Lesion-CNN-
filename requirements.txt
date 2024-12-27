@@ -64,4 +64,4 @@ typing-extensions==4.12.2
 tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
