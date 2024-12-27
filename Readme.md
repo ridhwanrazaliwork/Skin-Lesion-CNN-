@@ -1,3 +1,7 @@
+# Example Streamlit app
+You can find the streamlit app here
+'https://ridhwan-skin-lesion-app.streamlit.app/'
+
 # Streamlit Image and Metadata Model App
 
 This project demonstrates how to build a Streamlit app that works with an image-only model and a metadata model for predictions. The app is designed to accept an image and its associated metadata (such as labels or other descriptors) to make predictions.
